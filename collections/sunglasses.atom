@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/sunglasses.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2016-09-30T13:51:00-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+    <published>2016-09-30T13:51:00-04:00</published>
+    <updated>2016-09-30T13:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/sunglasses-elevation-8000-sunglasses-adult-ladies-kids"/>
+    <title>Sunglasses Elevation 8000 Sunglasses, Adult, Ladies &amp; Kids</title>
+    <s:type>Sunglasses</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/Elevation_8000_Shopify.jpg?v=1475261448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Sunglasses<br>
+        <strong>Price: </strong>
+            3.50 - 6.50
+            <a href="https://www.wholesaleresortaccessories.com/products/sunglasses-elevation-8000-sunglasses-adult-ladies-kids">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Elevation 8000 Sunglasses, Adult, Ladies &amp; Kids</h3>
+<p>High-Country Collection, the Elevation 8000 Sunglasses offer the latest quality styles &amp; value prices with 60% UVA and 95%+ UVB protection.</p>
+<p>Displays available: please contact us directly for pricing and minimum quantities required.</p>
+<p> </p>
+<p>Kids Sunglasses: Hang Ten UV400</p>
+<ul>
+<li>  Only available in $15.00 retail</li>
+<li>     Lens Width: 45mm</li>
+<li>  Bridge: 12mm</li>
+<li>  Temple: 120mm</li>
+</ul>
+<p>Adult &amp; Ladies sunglasses:</p>
+<ul>
+<li>Quality sunglasses</li>
+<li>Value prices</li>
+<li>Pre-tagged pricing; Retail: $10.50, $12.00, $15.00, $18.00</li>
+<li>Latest styles &amp; trends</li>
+<li>60% UVA and 95%+ UVB protection</li>
+<li>Meets/exceeds ANSI Z2880.3 general purpose requirement</li>
+<li>Styles updated seasonally</li>
+<li>Styles: Assorted per case</li>
+<li>QTY-12 pc per case</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0609/2797/files/Prop65_Digital_Label_Photo_Horizontal_large.jpg?v=1536790460" alt="" width="272" height="41"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale sunglasses</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+      <title>$10.50</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Sunglasses:91050ASST</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+      <title>$12.00</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>Sunglasses:91200ASST</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+      <title>$15.00</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Sunglasses:91500ASST</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+      <title>$18.00</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>Sunglasses:91800ASST</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8674475267</id>
+      <title>$15.00 Kids</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Sunglasses:91500KID</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/ski-pants-and-bibs.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2021-06-18T14:53:33-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411044099</id>
+    <published>2021-06-18T14:53:33-04:00</published>
+    <updated>2021-06-18T14:53:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/youth-black-cargo-pant"/>
+    <title>Winter Ski &amp; Board Pants-Youth Pulse Cargo Pant, Black</title>
+    <s:type>Ski pants</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1530-1930.png?v=1618425558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski pants<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Youth Pulse Cargo Pant, Black</h3>
+<p><span>Basics never looked better, the Youth Pulse Cargo Pants- Black offers style, warmth and moisture protection for all day stay and play.</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Snowtac Nylon and Tapped seams</span></li>
+<li><span class="a-list-item">Insulation</span></li>
+<li><span class="a-list-item">Gripper elasticized snow cuffs</span></li>
+<li><span class="a-list-item">Covered zippered pockets</span></li>
+<li>Cargo pockets</li>
+<li>Colors: Black</li>
+<li>Sizes: SM-XL</li>
+<li>Sold Individually</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale cargo ski pants</s:tag>
+    <s:tag>Wholesale youth ski pants</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411044099</id>
+      <title>Small Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Ski Pants/Bibs:1530-2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411044099</id>
+      <title>Medium Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Ski Pants/Bibs:1530-3</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411044099</id>
+      <title>Large Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Ski Pants/Bibs:1530-4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411044099</id>
+      <title>XLarge Black</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>Ski Pants/Bibs:1530-5</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411043307</id>
+    <published>2021-06-18T14:53:32-04:00</published>
+    <updated>2021-06-18T14:53:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/toddler-ski-bib"/>
+    <title>Winter Ski &amp; Board Pants-Toddler Ski Bib, 2T-4T</title>
+    <s:type>Ski Bib</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/14501_Youth_Black_Snow_Bib_copy_d3032a12-f717-49fe-a731-fdd58ac3f380.jpg?v=1475014365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Bib<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Toddler Pulse Ski Bib, 2T-4T</h3>
+<p><span>Sure to keep toddlers dry and the snow out. Features a high waist, durable wear and adjustable suspender straps! </span></p>
+<ul>
+<li>228 Snow-Tac Taslan Polyester</li>
+<li>Double closure system</li>
+<li>Leg snow cuff</li>
+<li>Zip Front</li>
+<li>Sizes: 2T-4T</li>
+<li>Solid individually</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>kids wholes ski bib</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411043307</id>
+      <title>2T</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14503-2</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411043307</id>
+      <title>3T</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14503-3</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411043307</id>
+      <title>4T</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14503-4</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411034003</id>
+    <published>2021-06-18T14:53:32-04:00</published>
+    <updated>2021-06-18T14:53:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/pulse-youth-ski-bib"/>
+    <title>Winter Ski &amp; Board Pants-Youth Pulse Ski Bib, Small-X-Large</title>
+    <s:type>Ski Bib</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/14501_Youth_Black_Snow_Bib_copy.jpg?v=1475013812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Bib<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Youth Pulse Ski Bib, Small-X-Large</h3>
+<p><span>Sure to stay dry and keep the snow out for all day play. the </span>Youth Pulse Ski Bib, f<span>eatures a high waist, durable wear and adjustable suspender straps! </span></p>
+<ul>
+<li>228 Snow-Tac Taslan Polyester</li>
+<li>Double closure system</li>
+<li>Leg snow cuff</li>
+<li>Zip Front</li>
+<li>Solid individually</li>
+</ul>
+<p> <img src="//cdn.shopify.com/s/files/1/0609/2797/files/Tariff_Photo_10f65032-fb7f-4e80-bdf6-384cfd89d003_large.JPG?v=1569449887" alt="" width="237" height="139"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale youth ski bibs</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411034003</id>
+      <title>Small</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Ski Pants/Bibs:14501-2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411034003</id>
+      <title>Medium</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Ski Pants/Bibs:14501-3</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411034003</id>
+      <title>Large</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Ski Pants/Bibs:14501-4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411034003</id>
+      <title>XL</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku>Ski Pants/Bibs:14501-5</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+    <published>2021-06-18T14:53:07-04:00</published>
+    <updated>2021-06-18T14:53:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-ski-board-pants-ladies-pulse-snow-pant-teal"/>
+    <title>Winter Ski &amp; Board Pants-Ladies Pulse Snow Pant Teal</title>
+    <s:type>Ski Pants</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/20120_Blue_Front.jpg?v=1603400959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Pants<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Pulse Snow Pant Teal</h3>
+<p><span>Bright basics never looked better, the Ladies Pulse Snow Pant Teal offers style, warmth and moisture protection for all day stay and play.</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Oxford Nylon</span></li>
+<li><span class="a-list-item">Insulated</span></li>
+<li><span class="a-list-item">Elasticized snow cuffs</span></li>
+<li><span class="a-list-item">Taped seams</span></li>
+<li><span class="a-list-item">Covered zippered gusset cargo pockets</span></li>
+<li><span class="a-list-item">Sizes: XS-XL</span></li>
+<li>Sold Individually</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale adult ski cargo pant</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+      <title>XSmall</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1935-1</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+      <title>Small</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1935-2</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+      <title>Medium</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1935-3</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+      <title>Large</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1935-4</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327079391328</id>
+      <title>XLarge</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1935-5</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+    <published>2021-06-18T14:53:06-04:00</published>
+    <updated>2021-06-18T14:53:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-ski-board-pants-ladies-snow-pant-pink"/>
+    <title>Winter Ski &amp; Board Pants-Ladies Pulse Snow Pant, Pink</title>
+    <s:type>Ski Pants</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1933__Ladies_Snow_Pant_Pink.png?v=1579268698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Pants<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Pulse Snow Pant Pink </h3>
+<p><span>Bright basics never looked better, the Ladies Pulse Snow Pant Pink offers style, warmth and moisture protection for all day stay and play.</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Oxford Nylon</span></li>
+<li><span class="a-list-item">Insulated</span></li>
+<li><span class="a-list-item">Elasticized snow cuffs</span></li>
+<li><span class="a-list-item">Taped seams</span></li>
+<li><span class="a-list-item">Covered zippered gusset cargo pockets</span></li>
+<li><span class="a-list-item">Color: Pink</span></li>
+<li><span class="a-list-item">Sizes: XS-XL</span></li>
+<li>Sold Individually</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale adult ski cargo pant</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+      <title>XSmall</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1933-1</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+      <title>Small</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1933-2</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+      <title>Medium</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1933-3</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+      <title>Large</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1933-4</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327078604896</id>
+      <title>XLarge</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1933-5</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+    <published>2021-06-18T14:53:06-04:00</published>
+    <updated>2021-06-18T14:53:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/ladies-classic-snow-bib"/>
+    <title>Winter Ski &amp; Board Pants-Ladies Classic High Rise Snow-Ski Bib</title>
+    <s:type>Ski Bib</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1350_Adult_Snow_Bib.png?v=1567105861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Ski Bib<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Classic Snow Bib</h3>
+<p>A high waist pant with adjustable suspenders for sure fit, the Ladies Classic High Rise Snow-Ski Bib offers comfort and protection from the elements. A leg snow cuff prevents snow intrusion. Lined 228 Snow-Taslon Polyester for warmth on the coldest days.</p>
+<ul>
+<li><span style="line-height: 1.4;"><span>Lined 228 Snow-Taslon Polyester</span></span></li>
+<li><span style="line-height: 1.4;"><span>Machine Washable</span></span></li>
+<li>Taped Seat Seam</li>
+<li><span style="line-height: 1.4;">Double closure System</span></li>
+<li><span style="line-height: 1.4;">High Rise</span></li>
+<li><span style="line-height: 1.4;">Leg Snow Cuff</span></li>
+<li><span style="line-height: 1.4;">Adjustable Suspenders</span></li>
+<li><span style="line-height: 1.4;">Sizes: XS-XL</span></li>
+<li>Solid individually</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wholesale Ladies Ski Bib</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+      <title>XL</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350W-XL</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+      <title>LG</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350W-LG</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+      <title>MD</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350W-MD</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+      <title>SM</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350W-SM</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3590544515</id>
+      <title>XS</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350W-XS</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+    <published>2021-06-18T14:53:05-04:00</published>
+    <updated>2021-06-18T14:53:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/pulse-mens-charcoal-cargo-pant"/>
+    <title>Winter Ski &amp; Board Pants-Adult Pulse Cargo Pant, Charcoal</title>
+    <s:type>Ski Pants</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1930_char.jpg?v=1416613906"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Pants<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Pulse Charcoal Cargo Pant, Charcoal</h3>
+<p><span>Basics never looked better, the Adult Pulse Cargo Pants-Charcoal offers style, warmth and moisture protection for all day stay and play.</span></p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Oxford Nylon</span></li>
+<li><span class="a-list-item">Insulated</span></li>
+<li><span class="a-list-item">Elasticized snow cuffs</span></li>
+<li><span class="a-list-item">Taped seams</span></li>
+<li><span class="a-list-item">Covered zippered gusset cargo pockets</span></li>
+<li><span class="a-list-item">Sizes: XS-2XL</span></li>
+<li>Sold Individually</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale adult ski cargo pant</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>XSmall</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-1</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>Small</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>Medium</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-3</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>Large</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>XLarge</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-5</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411049007</id>
+      <title>XXLarge</title>
+      <s:price currency="USD">21.00</s:price>
+      <s:sku>Ski Pants/Bibs:1931-6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+    <published>2021-06-18T14:53:04-04:00</published>
+    <updated>2021-06-18T14:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/pulse-mens-black-cargo-pant"/>
+    <title>Winter Ski &amp; Board Pants-Adult Pulse Cargo Pants, Black</title>
+    <s:type>Ski Pant</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1930_blk.jpg?v=1618425382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Pant<br>
+        <strong>Price: </strong>
+            22.00 - 24.00
+            <a href="https://www.wholesaleresortaccessories.com/products/pulse-mens-black-cargo-pant">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Pulse Cargo Pants, Black</h3>
+<p>Basics never looked better, the Adult Pulse Cargo Pants- Black offers style, warmth and moisture protection for all day stay and play.</p>
+<ul class="a-vertical a-spacing-none">
+<li><span class="a-list-item">Oxford Nylon</span></li>
+<li><span class="a-list-item">Insulated</span></li>
+<li><span class="a-list-item">Elasticized snow cuffs</span></li>
+<li><span class="a-list-item">Taped seams</span></li>
+<li><span class="a-list-item">Covered zippered gusset cargo pockets</span></li>
+<li><span class="a-list-item">Sizes: XS-2XL</span></li>
+<li>Sold Individually</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale adult cargo ski pant</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>XSmall-Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-1</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>Small-Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>Medium-Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-3</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>Large-Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>XLarge-Black</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-5</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411048091</id>
+      <title>XXLarge-Black</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Ski Pants/Bibs:1930-6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/411042695</id>
+    <published>2021-06-18T14:53:04-04:00</published>
+    <updated>2021-06-18T14:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/kids-4-7-ski-bib"/>
+    <title>Winter Ski &amp; Board Pants-Kids Ski Bib,  Ages 4-7</title>
+    <s:type>Ski Bibs</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/14501_Youth_Black_Snow_Bib_copy_1c498ea6-d298-4e70-9fc8-bf81b9a06030.jpg?v=1547504680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Bibs<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Kids Ski Bib, Ages 4-7</h3>
+<p><span>Sure to keep toddlers dry and the snow out, the Kids Ski Bib features a high waist, durable wear and adjustable suspender straps! </span></p>
+<ul>
+<li>228 Snow-Tac Taslan Polyester</li>
+<li>Double closure system</li>
+<li>Leg snow cuff</li>
+<li>Zip Front</li>
+<li>Sizes: SM-XL</li>
+<li>Solid individually</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0609/2797/files/Tariff_Photo_10f65032-fb7f-4e80-bdf6-384cfd89d003_large.JPG?v=1569449887" alt="" width="233" height="137"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Kids wholesale ski bibs</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411042695</id>
+      <title>Small</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14502-2</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411042695</id>
+      <title>Medium</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14502-3</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/411042695</id>
+      <title>Large</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku>Ski Pants/Bibs:14502-4</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+    <published>2021-06-18T14:53:03-04:00</published>
+    <updated>2021-06-18T14:53:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/adult-ski-bib"/>
+    <title>Winter Ski &amp; Board Pants-Adult Pulse High Rise Snow-Ski Bib</title>
+    <s:type>Ski Bib</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1350_Adult_Snow_Bib_e47fad09-7451-48d3-8337-99f793d73f90.png?v=1567105955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Bib<br>
+        <strong>Price: </strong>
+            22.00 - 24.00
+            <a href="https://www.wholesaleresortaccessories.com/products/adult-ski-bib">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Adult Pulse High Rise Snow-Ski Bib</span></h3>
+<p><span>Waterproof and lined High Rise Snow Bib is comfortable and is warm and dry for all day play keeping the elements out. Pulse is a great choice!</span></p>
+<ul>
+<li>High Rise </li>
+<li>Adjustable suspenders &amp; waist for a sure fit. </li>
+<li>Waterproof breathable Taslon Polyester</li>
+<li>Taped seams</li>
+<li>Black Only</li>
+<li>Leg Zip</li>
+<li>Sizes: XS-4XL</li>
+<li>Solid individually</li>
+</ul>
+<p><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>wholesale adult ski bib</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>Xsmall</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350-1</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>Small</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350-2</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>Medium</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350-3</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>Large</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350-4</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>XLarge</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku>Ski Pants/Bibs:1350-5</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>2XLarge</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Ski Pants/Bibs:13501-6</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>3XLarge</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Ski Pants/Bibs:13501-7</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/391125375</id>
+      <title>4XLarge</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku>Ski Pants/Bibs:13501-8</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+    <published>2021-02-17T17:12:45-05:00</published>
+    <updated>2021-02-17T17:12:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/pulse-womens-rider-ski-snowboard-pant"/>
+    <title>Winter Ski &amp; Board Pants-Ladies Pulse Rider Ski Pant</title>
+    <s:type>Ski Pants</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/20120_LadiesRiderPant_Gold_Front.png?v=1618517450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Pants<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Pulse Rider Ski Pant</h3>
+<div></div>
+<div>Stylish and colorful on the slopes, the Ladies Pulse Rider Ski Pant is the only way to go. Insulated for all day stay and play warmth.</div>
+<ul class="a-vertical a-spacing-none">
+<li>Windproof/ Waterproof WPB 320 Denier</li>
+<li><span class="a-list-item">Taped Seams and Articulated Knee's</span></li>
+<li><span class="a-list-item">Snow Gaiters with gripper elastic cuffs</span></li>
+<li><span class="a-list-item">Adjustable double closure waist: Snaps and Velcro</span></li>
+<li><span class="a-list-item">Two front pockets and one cargo pocket</span></li>
+<li><span class="a-list-item">Colors: Rose Clay (Purple), Gold</span></li>
+<li><span class="a-list-item">Sizes: XSmall - XLarge</span></li>
+<li><span class="a-list-item">Sold Individually</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ladies wholesale ski pant</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>X-Small / Gold</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120GLD1</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Small / Gold</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120GLD2</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Medium / Gold</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120GLD3</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Large / Gold</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120GLD4</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>X-Large / Gold</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120GLD5</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>X-Small / Rose Clay</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120PUR1</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Small / Rose Clay</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120PUR2</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Medium / Rose Clay</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120PUR3</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>Large / Rose Clay</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120PUR4</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420356747</id>
+      <title>X-Large / Rose Clay</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku>Ski Pants/Bibs:20120PUR5</s:sku>
+      <s:grams>1021</s:grams>
+    </s:variant>
+  </entry>
+</feed>

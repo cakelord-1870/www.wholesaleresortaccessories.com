@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/goggles-diving.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2021-07-30T18:59:51-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/466130179</id>
+    <published>2021-07-30T18:59:51-04:00</published>
+    <updated>2021-07-30T18:59:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/fun-dive-kids-mask-snorkel"/>
+    <title>Swim and Snorkel Mask Kids Fun Dive Mask &amp; Snorkel, 3-6</title>
+    <s:type>Sporting Goods</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/24018-2-small.jpg?v=1426787398"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Sporting Goods<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Kids (3-6) Mask &amp; Snorkel</h3>
+<ul>
+<li>Poly carbonate lenses</li>
+<li>Precision leak resistant fit</li>
+<li>Adjustable strap</li>
+<li>2 colors</li>
+<li>QTY-12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale kids snorkel</s:tag>
+    <s:tag>wholesale pool and beach play</s:tag>
+    <s:tag>wholesale snorkel set</s:tag>
+    <s:tag>wholesale swim accessories</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/466130179</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>Swim Goggles and Snorkels:24018</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/425654255647</id>
+    <published>2021-07-19T15:46:02-04:00</published>
+    <updated>2021-07-19T15:46:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/swim-and-snorkel-youth-mask-snorkel"/>
+    <title>Swim and Snorkel Mask Youth Mask &amp; Snorkel, 7-14</title>
+    <s:type>Sporting Goods</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/24032_Mask-Snorle_Youth_2_Shot.png?v=1579896927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Sporting Goods<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Youth Mask &amp; Snorkel, 7-14 Years Old</h3>
+<ul>
+<li>Aviator style poly carbonate lens</li>
+<li>Double feathered edge skirt for precision leak-resistant fit</li>
+<li>Fully adjustable split head strap</li>
+<li>Dry top snorkel technology prevents virtually all water infiltration </li>
+<li>Soft comfort-fit snorkel mouthpiece </li>
+<li>Integrated purge valve for easy water clearing</li>
+<li>Adjustable snorkel strap retainer</li>
+<li>2 assorted colors (purple and blue)</li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>wholesale dive accessories</s:tag>
+    <s:tag>wholesale kids dive mask</s:tag>
+    <s:tag>wholesale pool and beach toy</s:tag>
+    <s:tag>wholesale snorkel set</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/425654255647</id>
+      <title>Default</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Swim Goggles and Snorkels:24032</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/397384908831</id>
+    <published>2021-07-19T15:46:01-04:00</published>
+    <updated>2021-07-19T15:46:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/swim-and-snorkel-hydro-swim-youth-focus-swim-goggles"/>
+    <title>Swim and Snorkel Goggles Youth Hydro Swim Focus , Ages 7-14</title>
+    <s:type>Beach and Pool Accessories</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/21005_Youth_Swim_Goggles_Orange.png?v=1515284568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Beach and Pool Accessories<br>
+        <strong>Price: </strong>
+            2.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Hydro Swim Youth Focus Swim Goggles, Ages 7-14</h3>
+<p><span>Free &amp; clear, the </span>Hydro Swim Youth Focus Swim Goggles, Ages 7-14 <span>offers bright colors and a soft fully adjustable nose bridge and split head strap with smoked UV protection view lenses for a sure fit and comfort.</span></p>
+<ul>
+<li>High definition smoked lenses with UV</li>
+<li>Adjustable nose bridge</li>
+<li>Soft comfort fit eye cups</li>
+<li>Anti-fog coating</li>
+<li>100% latex free</li>
+<li>Split head strap</li>
+<li>Clear view lenses</li>
+<li>3 Assorted colors</li>
+<li>QTY-24</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-24</s:tag>
+    <s:tag>swim goggles wholesale</s:tag>
+    <s:tag>wholesale beach and pool toy</s:tag>
+    <s:tag>wholesale swim accessories</s:tag>
+    <s:tag>Wholesale swim goggles</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/397384908831</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.25</s:price>
+      <s:sku>Swim Goggles and Snorkels:21005</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/466132251</id>
+    <published>2021-07-19T15:46:00-04:00</published>
+    <updated>2021-07-19T15:46:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/snorkelite-mask-and-snorkel"/>
+    <title>Swim and Snorkel Mask Adult Snorkelite Mask &amp; Snorkel, 14+</title>
+    <s:type>Sporting Goods</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/24020-1.jpg?v=1426787613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Sporting Goods<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Snorkeling Mask and Snorkel</h3>
+<ul>
+<li>Appropriate for ages 14+</li>
+<li>Poly carbonate lenses</li>
+<li>Dry top snorkel</li>
+<li>Leak resistant fit</li>
+<li>Adjustable strap</li>
+<li>2 Colors</li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>wholesale beach and pool play</s:tag>
+    <s:tag>wholesale kids snorkel set</s:tag>
+    <s:tag>wholesale swim accessories</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/466132251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Swim Goggles and Snorkels:24020</s:sku>
+      <s:grams>1905</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/466109695</id>
+    <published>2021-07-19T15:45:59-04:00</published>
+    <updated>2021-07-19T15:45:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/adult-active-wear-goggles"/>
+    <title>Swim and Snorkel Goggles Adult Active Wear Goggles</title>
+    <s:type>Swim Goggles</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/21051-1.jpg?v=1579269178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Swim Goggles<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Active Wear Goggles</h3>
+<p><span>Take the plunge, Adult Active Wear Goggles protects eyes from either chemicals in the pool or salt in the ocean. Recreational swimming just got better. </span></p>
+<ul>
+<li>Comfort fit eye cups</li>
+<li>Tinted Poly-carbonate lenses</li>
+<li>100% UV protection</li>
+<li>Anti-fog</li>
+<li>QTY-36</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-36</s:tag>
+    <s:tag>wholesale adult swim goggles</s:tag>
+    <s:tag>wholesale beach and pool goggles</s:tag>
+    <s:tag>wholesale beach and pool toy</s:tag>
+    <s:tag>wholesale swim accessories</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/466109695</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Swim Goggles and Snorkels:21051</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697467</id>
+    <published>2021-07-19T15:45:59-04:00</published>
+    <updated>2021-07-19T15:45:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/kids-36-sportpro-champion-goggles"/>
+    <title>Swim and Snorkel Goggles Kids Lil&apos; Champ, 3+</title>
+    <s:type>Swim Goggles</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/21003_Swim_Goggle_Lil_Champ_age_3__Purple_copy.png?v=1579896296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Swim Goggles<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Lil Champ Goggles, Kids 3+</h3>
+<p>Free to swim like a fish, in the Lil' Champ Goggles, Kids 3+ offers a soft fully adjustable nose bridge and silicone head strap for a sure fit and comfort.</p>
+<ul>
+<li>Age 3-6 goggles. </li>
+<li>Fully adjustable nose bridge</li>
+<li>Silicone head strap</li>
+<li>Assorted colors</li>
+<li>QTY-24</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-24</s:tag>
+    <s:tag>summer swim accessories wholesale</s:tag>
+    <s:tag>wholesale swim accessories</s:tag>
+    <s:tag>Wholesale swim goggles</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697467</id>
+      <title>Default</title>
+      <s:price currency="USD">2.00</s:price>
+      <s:sku>Swim Goggles and Snorkels:21003</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/clearance.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2016-06-16T15:12:00-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1323658903648</id>
+    <published>2016-06-16T15:12:00-04:00</published>
+    <updated>2016-06-16T15:12:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/swimwear-ladies-lagaci-ladies-rash-guard-neon-shirt"/>
+    <title>Swimwear Ladies Surf Mentality Ladies Rash Guard Neon Shirt, UPF 50+</title>
+    <s:type>Ladies Speedo Swimsuit</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/2267-Asst_Womens_Rash_Guard_Neon_Shirt_Coral.png?v=1528924783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ladies Speedo Swimsuit<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies/Girls Surf Mentality Ladies Rash Guard Neon Shirt, UPF 50+</h3>
+<p>Stealth sport fashion, in the Ladies Surf Mentality Rash Guard Neon Shirt, UPF 50+ grab your board and paddle.</p>
+<ul>
+<li>Performance Rash Gaurd</li>
+<li>Excellent UV Protection</li>
+<li>UPF 50+</li>
+<li>Fabric 90% Polyester, 10% Spandex</li>
+<li>Color: Orange</li>
+<li>Assorted Sizes Sm-XL, 4-4-3-1</li>
+<li>QTY-12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ladies Swimwear</s:tag>
+    <s:tag>Ladies wholesale swimsuits</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale ladies swim ware</s:tag>
+    <s:tag>wholesale speedos</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1323658903648</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Swimsuits:2267-ASST</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/10077959054</id>
+    <published>2015-04-15T16:57:00-04:00</published>
+    <updated>2015-04-15T16:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/swimwear-ladies-sheer-sarong"/>
+    <title>Swimwear Ladies Cover-up Sheer Short Length Sarong</title>
+    <s:type>Swimwear</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/3390_Ladies_Sarongs_313692c5-734e-45ec-adde-03ec56d7ed00.jpg?v=1489876879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Swimwear<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Sheer Short Length Sarong</h3>
+<p>Solid style, the Ladies Sheer Short Length Sarong is the perfect cover-up and splash of color for pool and beach.</p>
+<p>Not ALL colors are featured in the photo.</p>
+<ul>
+<li>Drape tie at waist</li>
+<li>Hip to knee length</li>
+<li>Assorted colors: Black, White, Brown, Fuchsia, Rose, Blue, Turquoise, Sand, Red, Tomatoe, Yellow, Purple, Periwinkle</li>
+<li>Sizes: One size fits most</li>
+<li>QTY-12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ladies Wholesale Board Short</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale ladies board short</s:tag>
+    <s:tag>Wholesale Sarong</s:tag>
+    <s:tag>wholesale swimwear</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/10077959054</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Swimsuits:3390</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

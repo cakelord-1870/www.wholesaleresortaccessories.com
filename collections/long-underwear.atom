@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/long-underwear.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2015-12-07T10:58:00-05:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4182265091</id>
+    <published>2015-12-07T10:58:00-05:00</published>
+    <updated>2015-12-07T10:58:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/ladies-pajamas"/>
+    <title>Winter Base Layers &amp; Lounge-Ladies Pajama&apos;s</title>
+    <s:type>Lounge Wear</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/1425_LT_Authentic_Brand_PJ_Bottom_Pink_9-12-2015.png?v=1449505374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Lounge Wear<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Plush Pajama's</h3>
+<p>Plush teddy bear soft brushed fleece bottoms, the Ladies Pajama's offer cozy warmth on snuggle up cold nights, paired with a soft v-neck t-shirt blank or featuring a Lake Tahoe graphic makes for sure comfort.  </p>
+<ul>
+<li>Pants: Assorted colors- Black, Lavender, Brown, Pink</li>
+<li>T-Shirts CUSTOM Order: Assorted Colors-Pink, Black, White,  Please call to add to order with custom design. See Souvenir Catalog at bottom of page for designs.</li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>wholesale winter pajamas</s:tag>
+    <s:tag>wholesale winter pjs</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4182265091</id>
+      <title>Pajama Pants</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Apparel:1425</s:sku>
+      <s:grams>794</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/3833366787</id>
+    <published>2015-11-16T14:23:00-05:00</published>
+    <updated>2015-11-16T14:23:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/fleece-lined-seemless-black-leggings"/>
+    <title>Leggings-Fleece Lined Seemless Black Leggings</title>
+    <s:type>leggings</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/35730-1_Black_11-13-2015.png?v=1579268259"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>leggings<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3> Fleece Lined Seemless Black Leggings</h3>
+<p>Comfortable &amp; chic, the Fleece Lined Seemless Black Legging is a must have for every gals winter wardrobe offers warmth and comfort on the coldest of days.</p>
+<ul>
+<li>Assorted Sizes</li>
+<li>Black</li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold Medal Wholesale</s:tag>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>wholesale gold medal leggings</s:tag>
+    <s:tag>Wholesale leggings</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/3833366787</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>Long Underwear:35730</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697411</id>
+    <published>2015-04-06T12:44:00-04:00</published>
+    <updated>2015-04-06T12:44:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/ladies-fleece-lined-leggings"/>
+    <title>Leggings-Ladies Fleece Lined Heathered Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/OF_35730_Pink_11-9-2015.png?v=1447177973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Fleece Lined Heathered Leggings</h3>
+<p>Stylish heathered solids, the Fleece Lined Heathered Legging is fashion forward and offers warmth and comfort.</p>
+<ul>
+<li>Black.  93% Polyester  7% Spandex</li>
+<li>Wash in cold water only.  Do not bleach.  Line dry.</li>
+<li>Assortment of sizes S/M (90-135 lbs) and L/XL (135-185 lbs)</li>
+<li>Assorted Colors</li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gold Medal Wholesale</s:tag>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>wholesale gold medal leggings</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697411</id>
+      <title>Default</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Long Underwear:36380</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+</feed>

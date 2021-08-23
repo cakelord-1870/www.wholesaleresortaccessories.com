@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/socks.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2021-05-24T17:06:25-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6761659465884</id>
+    <published>2021-05-24T17:06:25-04:00</published>
+    <updated>2021-05-24T17:06:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-ladies-polar-extreme-heat-knee-hi-sock-assorted"/>
+    <title>Socks-Ladies Polar Extreme Heat Knee-Hi Sock, Assorted</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6515_LadiesSock_PolarExtremeKnee-Hi.png?v=1621890380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            6.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Polar Extreme Heat Knee-Hi Sock, Assorted</h3>
+<p>Neat for warm feet, the Ladies Polar Extreme Heat Knee-Hi Sock, Assorted offers the warmth and comfort you deserve for a long day of stay and play. </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li><span class="a-list-item">Comfort - brushed lined socks are soft and plush on the feet.</span></li>
+<li><span class="a-list-item">Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</span></li>
+</ul>
+<ul>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Gold Medal Socks</s:tag>
+    <s:tag>Wholesale Ladies Socks</s:tag>
+    <s:tag>Wholesale Thermal Polar Extreme Socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6761659465884</id>
+      <title>Default</title>
+      <s:price currency="USD">6.50</s:price>
+      <s:sku>Socks:6515</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6761656156316</id>
+    <published>2021-05-24T17:02:31-04:00</published>
+    <updated>2021-05-24T17:02:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-mens-polar-extreme-heat-sock-black-1"/>
+    <title>Socks-Men&apos;s Polar Extreme Xtra Lite Heat Sock, Fairlisle</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6404_MensSock_XtraLightFairlisle_2Shot.png?v=1621890143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Polar Extreme Xtra Lite Heat Sock, Fairlisle</h3>
+<p>Heat for warm feet, the Men's Polar Extreme Xtra Lite Heat Sock, Fairlisle offers the warmth and comfort to last a long day of stay and play. </p>
+<ul>
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li>
+<span class="a-list-item">Comfort - soft and plush on the feet. </span>Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</li>
+<li>QTY-6</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6761656156316</id>
+      <title>Default</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Socks:6404</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6761645637788</id>
+    <published>2021-05-24T16:54:28-04:00</published>
+    <updated>2021-05-24T16:54:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-boys-clear-creek-merino-wool-boot-sock"/>
+    <title>Socks-Kid&apos;s Clear Creek Merino Wool Boot Sock</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/5843_KidsSock_MerinoWool2-Pack_4Shot.png?v=1621889767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Kid's Clear Creek Merino Wool Boot Sock</h3>
+<p>Stay and play, the Kid's Clear Creek Merino Wool Boot Sock offers thermal knit warmth and wicking wool comfort and fit.</p>
+<ul>
+<li>Material: Meriono Wool</li>
+<li>Solid with contrast band</li>
+<li>2 Pack</li>
+<li>Assorted Colors</li>
+<li>Thermal knit for warmth</li>
+<li>QTY-12</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6761645637788</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Socks:5843</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4595865059424</id>
+    <published>2020-04-23T16:29:02-04:00</published>
+    <updated>2020-04-23T16:29:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-mens-marled-solid-light-weight-outdoor-boot-sock"/>
+    <title>Socks-Men&apos;s Marled &amp; Solid Light Weight Outdoor Boot Sock</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/5584_Sock_MensBoot_3Shot.jpg?v=1587673794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Marled &amp; Solid Light Weight Outdoor Boot Sock</h3>
+<p>Play or work wear, the Men's Marled &amp; Solid Light Weight Outdoor Boot Sock offers seasonal knit comfort and fit.</p>
+<ul>
+<li>Solid with contrast band</li>
+<li>Fits Men's shoe size 10-13</li>
+<li>Assorted Colors: Black, Navy, Grey</li>
+<li>Light Weight Knit </li>
+<li>QTY-12</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4595865059424</id>
+      <title>Default</title>
+      <s:price currency="USD">1.50</s:price>
+      <s:sku>Socks:5584</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/2271179997280</id>
+    <published>2019-08-16T17:17:35-04:00</published>
+    <updated>2019-08-16T17:17:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-ladies-polar-extreme-thermal-fairisle"/>
+    <title>Socks-Ladies Polar Extreme Thermal Slipper, High Country Style</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/37687_Polar_Extreme_Heat_Ladies_Slipper.png?v=1565990355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Polar Extreme Thermal Slipper, High Country Style</h3>
+<p>A relaxing treat for feet, the Ladies Polar Extreme Thermal Slipper, High Country Style offers the warmth and comfort after a long day of stay and play. </p>
+<ul>
+<li>Insulated- for warmth and comfort.</li>
+<li>Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</li>
+<li>Comfort - soft and plush on the feet.</li>
+<li>Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</li>
+<li>Anti-Skid Grippers on Bottom</li>
+<li>QTY-12</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<ul></ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Ladies Polar Sock</s:tag>
+    <s:tag>Wholesale Ladies Socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/2271179997280</id>
+      <title>Default</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Socks:37687</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1327019098208</id>
+    <published>2015-01-27T17:48:00-05:00</published>
+    <updated>2015-01-27T17:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-mens-polar-extreme-heat-sock-assorted-designs"/>
+    <title>Socks-Men&apos;s Polar Extreme Heat Sock, Assorted Patterns/Colors</title>
+    <s:type>Winter Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6403_Mens_Polar_Extreme_Heat_Sock_Asst_Three_Shot.png?v=1529600560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Winter Socks<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Polar Extreme Heat Sock, Assorted Patterns/Colors</h3>
+<p>Heat for warm feet, the Men's Polar Extreme Thermal Heat Sock, Assorted Patterns/Colors offers the warmth and comfort to last a long day of stay and play. </p>
+<ul>
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li><span class="a-list-item">Comfort - brushed lined socks are soft and plush on the feet.</span></li>
+<li><span class="a-list-item">Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</span></li>
+<li><span class="a-list-item">Assorted Patterns/Colors</span></li>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:tag>Wholesale Polar Extreme Socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1327019098208</id>
+      <title>Default</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Socks:6403</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/11353189966</id>
+    <published>2015-01-27T17:48:00-05:00</published>
+    <updated>2015-01-27T17:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-ladies-polar-extreme-heat-sock-fairisle"/>
+    <title>Socks-Ladies Polar Extreme Thermal Heat Sock, Fairisle</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6513_Polar_Extreme_Heat_Ladies_Sock_Fairlisle.jpg?v=1529602508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Polar Extreme Thermal Heat Sock, Fairisle</h3>
+<p>Neat for warm feet, the Ladies Polar Extreme Thermal Heat Sock, Fairisle offers the warmth and comfort you deserve for a long day of stay and play. </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li><span class="a-list-item">Comfort - brushed lined socks are soft and plush on the feet.</span></li>
+<li><span class="a-list-item">Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</span></li>
+</ul>
+<ul>
+<li>QTY-6</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Ladies Polar Sock</s:tag>
+    <s:tag>Wholesale Ladies Socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/11353189966</id>
+      <title>Default</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Socks:6513</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/11353188302</id>
+    <published>2015-01-27T17:48:00-05:00</published>
+    <updated>2015-01-27T17:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-ladies-polar-extreme-heat-sock-marled"/>
+    <title>Socks-Ladies Polar Extreme Thermal Heat Sock, Marled</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6501_Ladies_Polar_Heat_Sock_Marled.JPG?v=1504631254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Polar Extreme Thermal Heat Sock, Marled</h3>
+<p>Neat for warm feet, the Ladies Polar Extreme Thermal Heat Sock, Marled offers the warmth and comfort you deserve for a long day of stay and play. </p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li><span class="a-list-item">Comfort - brushed lined socks are soft and plush on the feet.</span></li>
+<li><span class="a-list-item">Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</span></li>
+</ul>
+<ul>
+<li>QTY-6</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Gold Medal Socks</s:tag>
+    <s:tag>Wholesale Ladies Socks</s:tag>
+    <s:tag>Wholesale Thermal Polar Extreme Socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/11353188302</id>
+      <title>Default</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Socks:6501</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/11343224270</id>
+    <published>2015-01-27T17:48:00-05:00</published>
+    <updated>2015-01-27T17:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/socks-mens-polar-extreme-heat-sock-black"/>
+    <title>Socks-Men&apos;s Polar Extreme Heat Sock, Black</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/6400_Mens_Polar_Heat_Sock.png?v=1504306372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Polar Extreme Heat Sock, Black</h3>
+<p>Heat for warm feet, the Men's Polar Extreme Thermal Heat Sock, Black offers the warmth and comfort to last a long day of stay and play. </p>
+<ul>
+<li><span class="a-list-item">Insulated- for warmth and comfort.</span></li>
+<li><span class="a-list-item">Extreme Warmth -  thermal properties when combined with the specialized manufacturing techniques result in the warmest of thermal socks.</span></li>
+<li><span class="a-list-item">Comfort - brushed lined socks are soft and plush on the feet.</span></li>
+<li><span class="a-list-item">Performance - inherent moisture management with thermal properties results in WARMTH for NO MORE COLD FEET!</span></li>
+<li>QTY-6</li>
+</ul>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/11343224270</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Socks:6403</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697915</id>
+    <published>2015-01-27T17:48:00-05:00</published>
+    <updated>2015-01-27T17:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/elder-thermal-boot-sock"/>
+    <title>Socks-Men&apos;s Clear Creek Merino Wool Boot Sock</title>
+    <s:type>Work Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/5571_Mens_Merino_Wool_Boot_Sock.png?v=1565986149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Work Socks<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Clear Creek Merino Wool Boot Sock</h3>
+<p>Play or work wear, the Men's Clear Creek Merino Wool Boot Sock offers thermal knit warmth and wicking wool comfort and fit.</p>
+<ul>
+<li>Material: Meriono Wool</li>
+<li>Solid with contrast band</li>
+<li>Fits Men's shoe size 10-13</li>
+<li>Assorted Colors: Black, Navy, Clay, Grey</li>
+<li>Thermal knit for warmth</li>
+<li>QTY-12</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Mens boot sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697915</id>
+      <title>Default</title>
+      <s:price currency="USD">4.50</s:price>
+      <s:sku>Socks:5571</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/420326191</id>
+    <published>2014-12-11T13:22:00-05:00</published>
+    <updated>2014-12-11T13:22:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/lorpen-merino-junior-ski-sock"/>
+    <title>Socks Junior Lorpen Merino Ski &amp; Winter Sock</title>
+    <s:type>Ski Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/7699-S-Red-Grey.jpg?v=1418322530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Socks<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Lorpen Junior Ski &amp; Winter Sock</h3>
+<p>Stride in stripes, Junior Lorpen Merino Ski Sock offers moisture wicking warmth and comfort as the days shadows grow long on the hills or while building a snow fort.</p>
+<ul>
+<li>Made of 37.5% Merino wool, 37.5% Acrylic, 15% Nylon, 10% LYCRA®</li>
+<li>Wicks moisture and dries quickly.</li>
+<li>Super fine toe seam</li>
+<li>Small available in Red/Grey stripe</li>
+<li>Medium available in Navy/Grey stripe</li>
+<li>QTY-3</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-3</s:tag>
+    <s:tag>wholesale ski socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420326191</id>
+      <title>Small</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Socks:7699-2</s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420326191</id>
+      <title>Medium</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Socks:7699-3</s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/420320699</id>
+    <published>2014-12-11T13:06:00-05:00</published>
+    <updated>2014-12-11T13:06:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/lorpen-merino-snowboard-sock"/>
+    <title>Socks Snowboard Adult Lorpen Merino Snowboard Sock</title>
+    <s:type>Snowoboard Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/7608-S-Berry.jpg?v=1418321792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Snowoboard Socks<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Lorpen Snowboard Sock</h3>
+<p>Longlasting moisture wicking warmth and comfort, the Adult Lorpen Merino Snowboard Sock offers cushioned shin and foot for a long day of play.</p>
+<ul>
+<li>Made of 37.5% Merino Wool, 37.5% Acrylic, 15% Nylon, 10% LYCRA®</li>
+<li>Merino blend wicks moisture and dries quickly</li>
+<li>Super fine toe seam</li>
+<li>Sizes &amp; Colors:</li>
+</ul>
+Small-Berry<br>Medium-Gold<br>Large-Black<br>
+<ul>
+<li>QTY-3</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-3</s:tag>
+    <s:tag>wholesale ski sock</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420320699</id>
+      <title>Small</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7608-2</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420320699</id>
+      <title>Medium</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7608-3</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420320699</id>
+      <title>Large</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7608-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/420011911</id>
+    <published>2014-12-10T19:11:00-05:00</published>
+    <updated>2014-12-10T19:11:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/lorpen-merino-ski-sock"/>
+    <title>Socks Ski  Adult Lorpen Merino Ski Sock</title>
+    <s:type>Ski Socks</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/7600-Size-Large.jpg?v=1579268827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Ski Socks<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Lorpen Ski Sock</h3>
+<p>Form &amp; fit, the Lorpen Ski Sock offers it all, with a fine toe seam to keep you in your skis to moisture wicking warmth and dryness for a full day of play.</p>
+<ul>
+<li>Made of 37.5% Merino, 37.5% Acrylic, 15% Nylon, 10% LYCRA®</li>
+<li>Blend wicks moisture and dries quickly</li>
+<li>Fine toe seam</li>
+<li>Cushion toe, heel and shin</li>
+<li>Fine stripe color detail</li>
+<li>Soft and comfortable</li>
+<li>Sizes &amp; Colors:</li>
+<li>Small-Charcoal.  Fits Men 5-7, Women 6-8.5 </li>
+<li>Medium-Black. Fits Men 7.5-9.5, Women 9-11</li>
+<li>Large-Dark Grey. Fits Men 10-12.5, Women 11.5+</li>
+<li>QTY-3</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-3</s:tag>
+    <s:tag>wholesale ski socks</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420011911</id>
+      <title>Small</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7600-2</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420011911</id>
+      <title>Large</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7600-4</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/420011911</id>
+      <title>Medium</title>
+      <s:price currency="USD">7.00</s:price>
+      <s:sku>Socks:7600-3</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+</feed>

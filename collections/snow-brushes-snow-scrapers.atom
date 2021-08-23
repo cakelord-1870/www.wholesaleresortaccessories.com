@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/snow-brushes-snow-scrapers.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2015-12-07T12:01:00-05:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4182935363</id>
+    <published>2015-12-07T12:01:00-05:00</published>
+    <updated>2015-12-07T12:01:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/car-shovel"/>
+    <title>Winter-Snow Removal Car-Trunk Shovel Collapsable with Adjustable Handle</title>
+    <s:type>Snow Removal Accessories</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/91174_Car_Shovel_Snip.png?v=1566249391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Snow Removal Accessories<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Car-Trunk Shovel Collapsable with Adjustable Handle</h3>
+<p>Got snow??? The Car-Trunk Shovel Collapsable with Adjustable Handle is light weight, and conveniently tucks away in the trunk just in case.</p>
+<p><strong>Bigfoot™ Brushes </strong></p>
+<ul>
+<li>Works great for emergencies!</li>
+<li>Collapsable handle</li>
+<li>Adjustable handle</li>
+<li>28-48'' inches</li>
+<li>Lightweight, durable poly construction</li>
+<li>Sturdy metal shaft </li>
+<li>Easy to store</li>
+<li>Blade size: 10” x 13” (25.4cm x 33.02cm)</li>
+<li><span style="line-height: 1.5;">QTY-6</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>car snow shovel</s:tag>
+    <s:tag>QTY-6</s:tag>
+    <s:tag>snow shovel</s:tag>
+    <s:tag>Wholesale Snow Shovels</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4182935363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.00</s:price>
+      <s:sku>Winter Accessories:91174</s:sku>
+      <s:grams>2155</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697607</id>
+    <published>2014-09-12T19:05:00-04:00</published>
+    <updated>2014-09-12T19:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/hopkins-10-bear-claw-ice-scraper"/>
+    <title>Winter-Snow Removal Big Foot  9&quot; Ice Scraper</title>
+    <s:type>Snow Removal Accessories</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/91700_Ice_Scraper_9_Inch_Big_Foot.png?v=1566248507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Snow Removal Accessories<br>
+        <strong>Price: </strong>
+            1.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Big Foot 9" Ice Scraper</h3>
+<p>Clean and clear, the Big Foot 9" Ice Scraper follows the <span>contour of the windshield for fast and easy removal of snow and ice.</span></p>
+<p><span>Bigfoot™ Brushes </span></p>
+<ul>
+<li>Flat compact design for easy storage</li>
+<li>Scraper blade follows the contour of the windshield</li>
+<li>Wide 4" clearing blade</li>
+<li>24 pieces per display case</li>
+<li>Durable poly construction</li>
+<li>Black</li>
+<li>QTY-24</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-24</s:tag>
+    <s:tag>wholesale snow scraper</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697607</id>
+      <title>Default</title>
+      <s:price currency="USD">1.30</s:price>
+      <s:sku>Winter Accessories:91700</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697599</id>
+    <published>2014-09-12T19:05:00-04:00</published>
+    <updated>2014-09-12T19:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/hopkins-22-super-deluxe-snowbrush"/>
+    <title>Winter-Snow Removal Big Foot 21&quot; Super Deluxe Snowbrush &amp; Ice Scraper</title>
+    <s:type>Snow Removal Accessories</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/91701_Snowbrush_21_Inch_Brush_and_Scraper.png?v=1566248932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Snow Removal Accessories<br>
+        <strong>Price: </strong>
+            2.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Big Foot 21" Super Deluxe Snowbrush &amp; Ice Scraper</h3>
+<p>Best of class, the Big Foot 21" Super Deluxe Snowbrush &amp; Ice Scraper clears the way through snow and ice and follows the contour of the windshield for quick and clear results.</p>
+<p><span>Bigfoot™ Brushes</span></p>
+<ul>
+<li>Our best-selling brush includes a wide 4" Scraper Blade</li>
+<li>Scraper blade follows the contour of the windshield</li>
+<li>Perfect for small to medium size passenger vehicles</li>
+<li>21'' inches</li>
+<li>12 Piece display box</li>
+<li>QTY-12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale snowbrush</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697599</id>
+      <title>Default</title>
+      <s:price currency="USD">2.75</s:price>
+      <s:sku>Winter Accessories:91701</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/356697591</id>
+    <published>2014-09-12T19:05:00-04:00</published>
+    <updated>2014-09-12T19:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/hopkins-48-extender-snow-broom"/>
+    <title>Winter-Snow Removal Big Foot 42&quot; Telescoping Snowbroom &amp; Heavy Duty Ice Scraper</title>
+    <s:type>Snow Removal Accessories</s:type>
+    <s:vendor>Wholesale Resort Accessories Dev</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/91708_Telescoping_Snowbrush_42_Inch_Ice_Scraper.png?v=1579268743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories Dev<br>
+        <strong>Type: </strong>Snow Removal Accessories<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Big Foot 42" Telescoping Snowbroom &amp; Heavy Duty Ice Scraper</h3>
+<p>Clears with convenience, the Big Foot 42" Telescoping Snowbroom &amp; Heavy Duty Ice Scraper adjusts in length and offers a wide blade and broom for quick and clear results.</p>
+<p><span>Bigfoot™ Brushes</span></p>
+<ul>
+<li>Provides up to 100% longer reach when extended</li>
+<li>Wide blade and broom extend to 42 inches</li>
+<li>Great for larger vehicles</li>
+<li>Assorted handle colors Black -Blue, Black-Yellow, Black-Red</li>
+<li>
+<em> </em>42”  telescoping handle</li>
+<li>Two-Position pivoting brush and scraper head</li>
+<li>Lightweight aluminum handle</li>
+<li>Cushion comfort grip</li>
+<li>8 Pieces per display</li>
+<li>QTY-24; Minimum 3 Case Packs of (8)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-24</s:tag>
+    <s:tag>Wholesale snow removal</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/356697591</id>
+      <title>Default</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>Winter Accessories:91708</s:sku>
+      <s:grams>2608</s:grams>
+    </s:variant>
+  </entry>
+</feed>

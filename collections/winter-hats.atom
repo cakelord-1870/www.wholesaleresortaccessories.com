@@ -1,0 +1,1165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.wholesaleresortaccessories.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.wholesaleresortaccessories.com/collections/winter-hats.atom"/>
+  <title>Wholesale Resort Accessories </title>
+  <updated>2021-08-16T17:32:08-04:00</updated>
+  <author>
+    <name>Wholesale Resort Accessories </name>
+  </author>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6955192352924</id>
+    <published>2021-08-16T17:32:08-04:00</published>
+    <updated>2021-08-16T17:32:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-adult-beanie-colligate-strip-pom-lake-tahoe"/>
+    <title>Winter-Hats Adult Beanie Colligate 3 Bears Stripe Pom Lake Tahoe</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/807-BLK_ColligateStripePom_LT_Black.png?v=1629149487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Beanie Colligate Three Bears Stripe Pom Lake Tahoe, Lake Tahoe</h3>
+<p>Back in the day Tahoe style, the Adult Beanie Colligate Three Bears Stripe Pom Lake Tahoe, Lake Tahoe offers warmth thats cool &amp; current.</p>
+<ul>
+<li><span style="line-height: 1.4;">Two tone oversize pom</span></li>
+<li><span style="line-height: 1.4;">Colors: Black, Royal Blue</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale hats</s:tag>
+    <s:tag>wholesale mens hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6955192352924</id>
+      <title>Boarder</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Hats:807-BLK</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6955192352924</id>
+      <title>Mountain</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Hats:807-BLU</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6939829403804</id>
+    <published>2021-08-09T17:32:16-04:00</published>
+    <updated>2021-08-09T17:32:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-adult-beanie-boarder-mountain-skier-lake-tahoe"/>
+    <title>Winter-Hats Adult Beanie Snow Boarder, Mountain &amp; Skier, Lake Tahoe</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/806-MTN_Beanie_Mountian_LT_Black.png?v=1628544599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Beanie Snow Boarder, Mountain &amp; Skier, Lake Tahoe</h3>
+<p>Hit the hill in Tahoe style, the Adult Beanie Snow Boarder, Mountain &amp; Skier, Lake Tahoe offers warmth thats coool....</p>
+<ul>
+<li><span style="line-height: 1.4;">Styles: Boarder, Mountain, Skier</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale hats</s:tag>
+    <s:tag>wholesale mens hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6939829403804</id>
+      <title>Boarder</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:806-BRD</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6939829403804</id>
+      <title>Mountain</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:806-MNT</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6939829403804</id>
+      <title>Skier</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:806-SKI</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4595802898528</id>
+    <published>2021-06-18T14:54:06-04:00</published>
+    <updated>2021-06-18T14:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-toddler-infant-striped-knit-hat-mitten-set-assorted-designs"/>
+    <title>Winter-Hats Toddler &amp; Infant Striped Cuff Knit Hat &amp; Mitten Set, Assorted Designs</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/36100_Hat-GloveSet_Kids_MultiShot.png?v=1587667155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Toddler &amp; Infant Striped Cuff Knit Hat &amp; Mitten Set, Assorted Designs</h3>
+<p>Warm and soft to the touch, the Toddler &amp; Infant Striped Cuff Knit Hat &amp; Mitten Set, Assorted Designs offers fun and colorful designs little ones will love to wear during a day of play.</p>
+<ul>
+<li><span style="line-height: 1.5;">Assorted Styles</span></li>
+<li><span style="line-height: 1.5;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale kids hat and mitten sets</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4595802898528</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Hats:36100</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6761507356828</id>
+    <published>2021-05-24T15:37:21-04:00</published>
+    <updated>2021-05-24T15:37:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-kids-animal-design-hats-1"/>
+    <title>Winter-Hats Kids Monster Design Hats</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/36200_ToddlerHat_Monsters_4Shot.png?v=1621885038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3> Kids Animal Design Hats</h3>
+<p>Cute &amp; cuddly, the Kids Monster Design Pom &amp; Ear Hats, are playful to keep them warm at stay and play.</p>
+<ul>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Children&apos;s Hats</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6761507356828</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:36200</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750703943836</id>
+    <published>2021-05-20T17:29:12-04:00</published>
+    <updated>2021-05-20T17:29:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-boys-lined-stripe-and-solid-cuff-hat-1"/>
+    <title>Winter-Hats Boys Fleece Lined Chunky Knit Marled Cuff Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/57232_BoysHat_FleeceLinedCableCuff_PolarExteme_3Shot.png?v=1621545941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Boys Fleece Lined Chunky Knit Marled Cuff Pom Hat</h3>
+<p>Marvel style, the Boys Fleece Lined Chunky Knit Marled Cuff Pom Hat offers stylish warmth to keep them playing.</p>
+<ul>
+<li>Fleece Lined<br>
+</li>
+<li>Block Stripe</li>
+<li>Solid cuff</li>
+<li><span>Assorted</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750703943836</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:57232</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750701420700</id>
+    <published>2021-05-20T17:22:16-04:00</published>
+    <updated>2021-05-20T17:22:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-boys-lined-stripe-and-solid-cuff-hat"/>
+    <title>Winter-Hats Boys Lined Stripe and Solid Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4050_BoysHat_LinedCuffHat_PolarExteme_3Shot.png?v=1621545708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Boys Lined Stripe and Solid Cuff Hat</h3>
+<p>Simple style, the Boys Lined Stripe and Solid Cuff Hat says lets stay and play.</p>
+<ul>
+<li>Polar Extreme Lined</li>
+<li>Solids/Stripes<br>
+</li>
+<li>Solid cuff</li>
+<li><span>Assorted</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750701420700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:4050</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750694801564</id>
+    <published>2021-05-20T17:19:27-04:00</published>
+    <updated>2021-05-20T17:19:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-girls-lined-multi-color-yarn-polar-extreme-pull-pom-hat"/>
+    <title>Winter-Hats Girls Lined Speckled Yarn Polar Extreme Solid Cuff Oversize Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4040_GirlsHat_LinedCuffPomHat_PolarExteme_3Shot.png?v=1621545315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Girls Lined Speckled Yarn Polar Extreme Solid Cuff Oversize Pom Hat</h3>
+<p>Spectacular style, the Girls Lined Speckled Yarn Polar Extreme Solid Cuff Oversize Pom Hat is sure to go anywhere with multi-color yarn to completment everything. </p>
+<ul>
+<li>Polar Extreme Lined</li>
+<li>Multi-color speckled yarn</li>
+<li>Solid cuff</li>
+<li><span>Assorted</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750694801564</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:4040</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750686773404</id>
+    <published>2021-05-20T17:12:38-04:00</published>
+    <updated>2021-05-20T17:12:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-boys-lined-block-stripe-polar-extreme-pull-hat"/>
+    <title>Winter-Hats Boys Lined Block Stripe Polar Extreme Pull Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4063-B_BoysHat_LinedStripePull_3Overlap.png?v=1621545109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Boys Lined Block Stripe Polar Extreme Pull Hat</h3>
+<p>Bold block style, the Boys Lined Block Stripe Polar Extreme Pull Hat offers a simple statement that says lets stay and play.</p>
+<ul>
+<li>Polar Extreme Lined</li>
+<li>Contrast Block Stripe</li>
+<li><span>Assorted, Black-Grey, Grey-Red, Blue-Yellow</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750686773404</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:4063-B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750678778012</id>
+    <published>2021-05-20T17:09:09-04:00</published>
+    <updated>2021-05-20T17:09:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-girls-lined-block-stripe-polar-extreme-pull-hat"/>
+    <title>Winter-Hats Girls Lined Block Stripe Polar Extreme Pull Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4063-G_GirlsHat_LinedStripePull_3Overlap.png?v=1621544834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Girls Lined Block Stripe Polar Extreme Pull Hat</h3>
+<p>Bold Block Style, the Girls Lined Block Stripe Polar Extreme Pull Hat offers a simple statement that says lets stay and play.</p>
+<ul>
+<li>Polar Extreme Lined</li>
+<li>Contrast Block Stripe</li>
+<li><span>Assorted, Purple, Blue, Black-Pink</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750678778012</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:4063-G</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6750658035868</id>
+    <published>2021-05-20T16:57:18-04:00</published>
+    <updated>2021-05-20T16:57:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-girls-fleece-lined-cable-knit-cuff-pom-hat"/>
+    <title>Winter-Hats Girls Fleece Lined Cable Solid Knit Cuff Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/44156_GirlsHat_FleecedLinedCableCuffPom_3Shot.png?v=1621544061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Girls Fleece Lined Cable Solid Knit Cuff Pom Hat</h3>
+<p>Soft and simple sass, the Girls Fleece Lined Cable Solid Knit Cuff Pom Hat offers stay and play warmth with bold cable solid pastel style.</p>
+<ul>
+<li><span style="line-height: 1.4;" mce-data-marked="1">Fleece Lined</span></li>
+<li><span style="line-height: 1.4;" mce-data-marked="1">Oversized Pom</span></li>
+<li>Contrast weave cuff</li>
+<li><span>Assorted Pastels, Coral, Muted Pink, Soft Mint</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6750658035868</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:44156</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6704859906204</id>
+    <published>2021-04-27T18:19:40-04:00</published>
+    <updated>2021-04-27T18:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-mens-polar-extreme-marled-pull-hat-1"/>
+    <title>Winter-Hats Men&apos;s Polar Extreme Textured Solid Pull Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/37106_MensHat_Men_sPolarExtremeTexturedPullHat_2Shot.png?v=1628797235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Polar Extreme Textured Solid Pull Hat</h3>
+<p>Sophisticated style, the Men's Polar Extreme Textured Solid Pull Hat offers great warmth and no fuss style for a simple grab-and-go look.</p>
+<ul>
+<li><span style="line-height: 1.4;">Thermal warmth</span></li>
+<li><span style="line-height: 1.4;">Insulated lining</span></li>
+<li><span style="line-height: 1.4;">Assorted Colors: Navy, Grey, Black, Burgandy</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6704859906204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:37106</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/6704847257756</id>
+    <published>2021-04-27T18:12:56-04:00</published>
+    <updated>2021-04-27T18:12:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-mens-fleece-lined-retro-cuff"/>
+    <title>Winter-Hats Men&apos;s Fleece Lined Retro Diamond Cuff</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/60148_MensHat_FleeceLinedCuff_Tri-Shot.png?v=1619561570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #000000;">Men's Fleece Lined Retro Diamond Cuff Hat</span></h3>
+<p><span style="color: #000000;">A retro classic, the Men's Fleece Lined Retro Diamond Cuff Hat offers old school style and warmth on the coldest of days. Soft fleece lining, marled cuff  and diamond color pattern. </span></p>
+<ul>
+<li><span style="line-height: 1.4;">Fleece lined</span></li>
+<li>Contrast marled cuff</li>
+<li>Classic retro diamond pattern</li>
+<li><span style="line-height: 1.4;">Assorted Colors: Black/Grey, Blue/Grey, Black/Red</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul>
+<h3></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/6704847257756</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:60148</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/5525560197276</id>
+    <published>2020-08-19T13:43:33-04:00</published>
+    <updated>2020-08-19T13:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-cable-knit-clear-creek-pull-hat"/>
+    <title>Winter-Hats Ladies Cable Knit Clear Creek Pull Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/37107_LadiesHat_CableKnitPullHat_ClearCreek.png?v=1597859008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Cable Knit Clear Creek Pull Hat</h3>
+<p>Solid style, the Ladies Cable Knit Clear Creek Pull Hat offers stylish warmth and a solid statement for city or snow.</p>
+<ul>
+<li><span style="line-height: 1.4;" mce-data-marked="1">Cable Knit</span></li>
+<li><span>Assorted  colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/5525560197276</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Hats:37107</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/5525539324060</id>
+    <published>2020-08-19T13:39:01-04:00</published>
+    <updated>2020-08-19T13:39:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-diamond-knit-fleece-lined-pom-hat"/>
+    <title>Winter-Hats Ladies Diamond Knit Fleece Lined Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/75024_LadiesHat_DiamondKnitCuff_3Shot.png?v=1597858682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Diamond Knit Fleece Lined Pom Hat</h3>
+<p>Diamond style, the Ladies Diamond Knit Fleece Lined Pom Hat offers bold design, fleece warmth and is a stylish accent for sass in the snow.</p>
+<ul>
+<li><span style="line-height: 1.4;" mce-data-marked="1">Fleece lined</span></li>
+<li><span>Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Girls wholesale knit hat</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/5525539324060</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Hats:75024</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8890766467</id>
+    <published>2016-10-25T13:51:00-04:00</published>
+    <updated>2016-10-25T13:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-headband-adult-wicking-fleece-headband"/>
+    <title>Winter Hats-Headband Adult Wicking Fleece Headband</title>
+    <s:type>Winter Headbands &amp; Scarves</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/60770_Mens_Wicking_Sport_Fleece_Headband_79f60018-61ab-4184-976a-8988b5ee36e3.JPG?v=1477418430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Headbands &amp; Scarves<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Adult Wicking Fleece Headband</h3>
+<p>Basic Comfort and a must have for winter sports, the Adult Wicking Fleece Headband ensures a long day of play with breathable warmth and comfort offering adjustable fit.</p>
+<ul>
+<li>Breathable</li>
+<li>Windproof</li>
+<li>Microfleece</li>
+<li>Velcro Closure</li>
+<li>Black</li>
+<li>QT-12</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter Accessories</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:tag>Wholesale winter headbands</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8890766467</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>Headbands/Scarves:60770</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8116962371</id>
+    <published>2016-08-22T17:22:00-04:00</published>
+    <updated>2016-08-22T17:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-fleece-lined-cuff-hat"/>
+    <title>Winter-Hats Ladies Fleece Lined Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4079_Ladies_Fleece_3_shot.jpg?v=1477349873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ladies Fleece Lined Cuff Hat</p>
+<ul>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+<li><span style="line-height: 1.4;">Assorted Colors</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8116962371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.00</s:price>
+      <s:sku>Hats:4079</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1326699118688</id>
+    <published>2016-08-22T16:29:00-04:00</published>
+    <updated>2016-08-22T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-mens-polar-extreme-marled-pull-hat"/>
+    <title>Winter-Hats Men&apos;s Polar Extreme Marled Pull Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/37112_Mens_Polar_Extreme_Marled_Pull_Hat.png?v=1529533777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Polar Extreme Marled Pull Hat</h3>
+<p>Sophisticated style, the Men's Polar Extreme Marled Pull Hat offers great warmth and no fuss style for a simple grab-and-go look.</p>
+<ul>
+<li><span style="line-height: 1.4;">Thermal warmth</span></li>
+<li><span style="line-height: 1.4;">Insulated lining</span></li>
+<li><span style="line-height: 1.4;">Assorted Colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1326699118688</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:37112</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8116184579</id>
+    <published>2016-08-22T16:29:00-04:00</published>
+    <updated>2016-08-22T16:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-marled-thermal-cuff-hat"/>
+    <title>Winter-Hats Ladies Polar Extreme Marled Thermal Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/801_LadiesHat_PolarExtreme_Marled_4Shot.png?v=1620935727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Polar Extreme Marled Thermal Cuff Hat</h3>
+<p>Smart and sassy the Ladies Polar Extreme Marled Thermal Cuff Hat offers great warmth and no fuss style for a simple grab-and-go look.</p>
+<ul>
+<li><span style="line-height: 1.4;">Thermal warmth</span></li>
+<li><span style="line-height: 1.4;">Insulated</span></li>
+<li><span style="line-height: 1.4;">Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Polar Extreme Hats</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8116184579</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:801</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/11341978062</id>
+    <published>2016-08-22T16:21:00-04:00</published>
+    <updated>2016-08-22T16:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-thick-yarn-cuff-pom-hat"/>
+    <title>Winter-Hats Ladies Thick Yarn Cuff Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/75032_Ladies_Hat_Thick_Yarn_Pom.JPG?v=1504287902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3> Ladies Thick Yarn Cuff Pom Hat</h3>
+<p>Bright and fashionable, the Ladies Thick Yarn Cuff Pom Hat<span> offers warmth and colorful style for winter stay and play.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ladies winter hats</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/11341978062</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Hats:75032</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8115693955</id>
+    <published>2016-08-22T16:21:00-04:00</published>
+    <updated>2016-08-22T16:21:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-ladies-icelandic-yarn-lined-pom-hat"/>
+    <title>Winter-Hats Ladies Icelandic Yarn Lined Pom Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/75410_Icelanic_Yarn_Beanie_3_Shot.jpeg?v=1471897406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Icelandic Yarn Lined Pom Hat</h3>
+<p>Bright and fashionable thick knit block color <span>Ladies Icelandic Yarn Lined Pom Hat offers warmth and colorful style for winter stay and play.</span></p>
+<ul>
+<li><span style="line-height: 1.4;">Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ladies winter hats</s:tag>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8115693955</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.50</s:price>
+      <s:sku>Hats:75410</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8062283267</id>
+    <published>2016-08-18T18:53:00-04:00</published>
+    <updated>2016-08-18T18:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-mens-fleece-lined-acrylic-knit-cuff-hat"/>
+    <title>Winter-Hats Men&apos;s Fleece Lined Acrylic Knit Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/60796_MensFleeceLinedAcrylicHat_Tri-Shot.png?v=1619562061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Fleece Lined Acrylic Knit Cuff Hat</h3>
+<p>Back-to-basics offers warmth in the Men's Fleece Lined Acrylic Knit Solid Cuff Hat.</p>
+<ul>
+<li><span style="line-height: 1.4;">Marled crown </span></li>
+<li><span style="line-height: 1.4;">Solid contrast cuff</span></li>
+<li><span style="line-height: 1.4;">Fleece Lined</span></li>
+<li><span style="line-height: 1.4;">Assorted colors: Vary</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale hats</s:tag>
+    <s:tag>wholesale mens hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8062283267</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Hats:60796</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/8038006211</id>
+    <published>2016-08-17T18:59:00-04:00</published>
+    <updated>2016-08-17T18:59:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-mens-cable-knit-cuff-hat"/>
+    <title>Winter-Hats Men&apos;s Rugby Cable Knit Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/60130_Mens_Cable_Knit_Cuff_Hat__copy.png?v=1471475215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Men's Rugby Cable Knit Cuff Hat</h3>
+<p>Sporty rugby striped <span>Men's Cable Knit Cuff Hat with over-sized multi-color pom is perfect</span> for work or play.</p>
+<ul>
+<li><span style="line-height: 1.4;">Contrast cuff</span></li>
+<li><span style="line-height: 1.4;">Rugby striped</span></li>
+<li><span style="line-height: 1.4;">Cable knit</span></li>
+<li><span style="line-height: 1.4;">Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/8038006211</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.00</s:price>
+      <s:sku>Hats:60130</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4100701635</id>
+    <published>2015-12-02T12:28:00-05:00</published>
+    <updated>2015-12-02T12:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/toddler-hat-and-mitten-set"/>
+    <title>Winter-Hats Toddler Fleece Hat &amp; Mitten Set, Assorted Designs</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories </s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/4560_Blue_Stripe_copy.jpg?v=1472068170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories <br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Toddler Fleece Hat &amp; Mitten Set, Assorted Designs </h3>
+<p>Warm and soft to the touch, the Toddler Fleece Hat &amp; Mitten Set offers fun and colorful designs little ones will love to wear during a day of play.</p>
+<ul>
+<li><span style="line-height: 1.5;">Assorted Styles</span></li>
+<li><span style="line-height: 1.5;">QTY-12</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale kids hat and mitten sets</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4100701635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>Hats:4560</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/1326713897056</id>
+    <published>2015-12-02T11:56:00-05:00</published>
+    <updated>2015-12-02T11:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/winter-hats-boys-striped-cuff-hat-4-7"/>
+    <title>Winter-Hats Boys Knit Bold Stripe Beanie, 4-7</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/57220_Boys_Striped_Cuff_Hat_4-7.png?v=1529539873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Boys Knit Bold Stripe Beanie, 4-7</h3>
+<p>Retro style, the Boys Knit Bold Stripe Beanie, 4-7 offers warmth and a solid statement.</p>
+<ul>
+<li><span style="line-height: 1.4;">Assorted colors</span></li>
+<li><span style="line-height: 1.4;">QTY-12</span></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/1326713897056</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.50</s:price>
+      <s:sku>Hats:57220</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.wholesaleresortaccessories.com/products/4087917443</id>
+    <published>2015-12-01T15:39:00-05:00</published>
+    <updated>2015-12-01T15:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.wholesaleresortaccessories.com/products/fleece-lined-cuff-hat"/>
+    <title>Winter-Hats Ladies Fleece Lined Cuff Hat</title>
+    <s:type>Winter Hats</s:type>
+    <s:vendor>Wholesale Resort Accessories</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0609/2797/products/799_LadiesFleeceLinedAcrylicHat_Tri-Shot.png?v=1603912537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wholesale Resort Accessories<br>
+        <strong>Type: </strong>Winter Hats<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Ladies Fleece Lined Cuff Hat</h3>
+<p>Simple style the Fleece Lined Solid Cuff Hat offers superior warmth and a variety of colors for sure all day play.</p>
+<p>Assorted Marled Colors: Vary</p>
+<p>QTY-12</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>QTY-12</s:tag>
+    <s:tag>wholesale ladies hats</s:tag>
+    <s:tag>Wholesale Winter hats</s:tag>
+    <s:variant>
+      <id>https://www.wholesaleresortaccessories.com/products/4087917443</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.00</s:price>
+      <s:sku>Hats:799</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>
